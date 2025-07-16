@@ -1,5 +1,5 @@
 # Text-generation
-This is a simple and interactive web app where you can upload an image and get a human-like description of what’s in it.
+This is a simple and interactive web app where you can upload an image and get description of what’s in it.
 
 It uses:
 - 🟡 YOLOv5 to detect objects in the image
